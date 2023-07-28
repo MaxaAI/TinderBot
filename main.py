@@ -4,8 +4,8 @@ from selenium.common.exceptions import ElementClickInterceptedException, NoSuchE
 from time import sleep
 
 
-FB_EMAIL = 'maximilianradomski@gmail.com'
-FB_PASSWORD = '0509Maxi.'
+FB_EMAIL = 'Your Email'
+FB_PASSWORD = 'Your Password'
 chrome_driver_path = driver_path = "C:/Users/Development/chromedriver.exe"
 
 
